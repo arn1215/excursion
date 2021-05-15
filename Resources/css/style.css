@@ -23,3 +23,11 @@ h2 {
 
 }
 
+p {
+    color: grey;
+    font-size: 21px;
+}
+
+.copyright {
+    text-align: right;
+}
